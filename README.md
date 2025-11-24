@@ -35,7 +35,7 @@ Consolidar una plataforma fintech–edtech orientada a educación financiera, ah
 
 ## 📈 Estudio de Mercado  
 📄 **Documento completo:**  
-👉 [Informe Estudio de Mercado FinLabs]https://github.com/jsvanegas-debug/finlabs-proyecto-inversion/blob/main/Informe%20Estudio%20Mercado%20FinLabs%20(1).pdf
+👉 [Informe Estudio de Mercado FinLabs](https://github.com/jsvanegas-debug/finlabs-proyecto-inversion/blob/main/Informe%20Estudio%20Mercado%20FinLabs%20(1).pdf)
 
 ---
 
