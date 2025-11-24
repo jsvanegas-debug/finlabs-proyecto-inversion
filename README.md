@@ -55,7 +55,7 @@ Incluye:
 
 ## 💵 Estudio Económico y Financiero  
 📄 **Documento completo:**  
-👉 [Estudio Económico y Financiero – Versión Completa](/mnt/data/Estudio%20econ%C3%B3mico%20y%20financiero%20por%20Juan%20Sebastian%20Vanegas%20Trejos%20version%20completo.xlsx)
+👉 [Estudio Económico y Financiero – Versión Completa](https://github.com/jsvanegas-debug/finlabs-proyecto-inversion/blob/main/Estudio%20econ%C3%B3mico%20y%20financiero%20por%20Juan%20Sebastian%20Vanegas%20Trejos%20version%20completo.xlsx)
 
 ---
 
