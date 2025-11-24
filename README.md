@@ -41,7 +41,7 @@ Consolidar una plataforma fintech–edtech orientada a educación financiera, ah
 
 ## 🏗 Estudio Técnico y Organizacional  
 📄 **Documento completo:**  
-👉 [Estudio Técnico Organizacional FinLabs – Low Cost](/mnt/data/Estudio%20Tecnico%20Organizacional%20FinLabs%20Low%20Cost%20Complete.docx)
+👉 [Estudio Técnico Organizacional FinLabs – Low Cost](https://github.com/jsvanegas-debug/finlabs-proyecto-inversion/blob/main/Estudio%20Tecnico%20Organizacional%20FinLabs%20Low%20Cost%20Complete.docx)
 
 Incluye:  
 - Estructura organizacional mínima  
