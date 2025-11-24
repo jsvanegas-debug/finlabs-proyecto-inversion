@@ -29,7 +29,7 @@ Consolidar una plataforma fintech–edtech orientada a educación financiera, ah
 
 ## 🌱 Evaluación Ambiental  
 📄 **Documento completo:**  
-👉 [Evaluación Ambiental FinLabs](https://github.com/jsvanegas-debug/finlabs-proyecto-inversion/blob/main/Evaluacion%20Ambiental%20FinLabs.docx)
+👉 [Evaluación Ambiental FinLabs](https://github.com/jsvanegas-debug/finlabs-proyecto-inversion/blob/main/Evaluacion%20Ambiental%20FinLabs.pdf)
 
 ---
 
